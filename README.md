@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cyber_Security_%26_AI-00f2ff?style=for-the-badge&logo=target" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Cyber_Security_%26_AI-0e7490?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Exploring_%26_Building-238636?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/OS-Windows_%26_Linux-1f6feb?style=for-the-badge&logo=linux" alt="OS" />
 </p>
