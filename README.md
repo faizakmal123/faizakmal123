@@ -34,14 +34,18 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizakmal123&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Repositori_Aktif-1-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Status-Exploring_%26_Building-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-orange?style=for-the-badge" alt="Focus" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizakmal123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" width="100%" />
 </p>
 <!--
 **faizakmal123/faizakmal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
